@@ -14,7 +14,7 @@ spec:
     gitName: github
     gitServer: https://github.com
     provider: minikube
-    registry: 10.106.239.107
+    registry: 10.104.122.35
   environments:
   - key: dev
     owner: maorbril-coinbase
